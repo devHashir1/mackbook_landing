@@ -45,7 +45,7 @@ If you would like to run this project locally on your machine, follow these step
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/devHashir1/mackbook_landing.git](https://github.com/devHashir1/mackbook_landing.git)
+    git clone https://github.com/devHashir1/mackbook_landing.git
     ```
 2.  **Navigate into the directory:**
     ```bash
