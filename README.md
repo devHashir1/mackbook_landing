@@ -28,15 +28,7 @@ This project is a frontend clone focused on high-fidelity 3D modeling, smooth an
 
 ---
 
-## 📸 Screenshots & Previews
 
-| Hero Section (3D Model) | Features Section |
-|---|---|
-| ![Hero Preview](https://via.placeholder.com/400x250?text=Hero+Screenshot) | ![Features Preview](https://via.placeholder.com/400x250?text=Features+Screenshot) |
-
-*(Tip: Replace these placeholder links with actual screenshots or a GIF of your website working!)*
-
----
 
 ## 💡 What I Learned (My 3D Journey)
 
