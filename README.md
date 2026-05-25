@@ -49,7 +49,7 @@ If you would like to run this project locally on your machine, follow these step
     ```
 2.  **Navigate into the directory:**
     ```bash
-    cd YOUR_REPO_NAME
+    cd macbook_landing
     ```
 3.  **Install dependencies:**
     ```bash
